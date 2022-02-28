@@ -6,7 +6,7 @@
 - Clone Repository ini di dalam direktori virtual environment
 - Masukkan Scripts\activate (pada Sistem Operasi Windows) ke terminal untuk mengaktifkan virtual envireonment
 - Masukkan pip install -r requirements.txt ke terminal untuk meng-install dependencies yang diperlukan
-- Masuk ke daam folder/direktori src (cd ke dalam src)
+- Masuk ke dalam folder/direktori src (cd ke dalam src)
 - Atur dataset yang ingin ditampilkan serta atributnya pada file Tucil2.py
 - Masukkan python Tucil2.py untuk menjalankan program
 
